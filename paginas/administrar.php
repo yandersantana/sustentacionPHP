@@ -67,33 +67,28 @@
             
           <br><br>  
             <div id="ilo">
-                                 <a href="calidad.php?ID=1"><button>VOLVER</button></a>
-           
-        
-                 <br>
-        <br> 
                                 <h1 class="asd">Tablas de la base de datos</h1>
                                 <h2>Paul</h2>
-                                <a href="modelo/produccion/read_produccion.php"#><button> PRODUCCIÓN</button></a>
-                                <a href="modelo/detalle_produccion/read_detalle_produccion.php"#><button>DETALLE DE PRODUCCIÓN</button></a>
-                                <a href="modelo/mineral/read_mineral.php"#><button>MINERAL</button></a>
+                                <a href="modelo/produccion/read_produccion.php"#>{ PRODUCCIÓN }</a>
+                                <a href="modelo/detalle_produccion/read_detalle_produccion.php"#>{ DETALLE DE PRODUCCIÓN }</a>
+                                <a href="modelo/mineral/read_mineral.php"#>{ MINERAL }</a>
                                 <br>
                                 <h2>Kimmy</h2>
-                                <a href="modelo/reporte_tuneles/read_reporte_tuneles.php"#><button>REPORTE TUNELES</button></a>
-                                <a href="modelo/detalle_reporte/read_detalle_reporte.php"#><button>DETALLE REPORTE</button></a>
-                                <a href="modelo/datos_tunel/read_datos_tunel.php"#><button>DATOS TUNELES</button></a>
-                                <a href="modelo/tunel/read_tunel.php"#><button>TUNEL</button></a>
+                                <a href="modelo/reporte_tuneles/read_reporte_tuneles.php"#>{ REPORTE TUNELES }</a>
+                                <a href="modelo/detalle_reporte/read_detalle_reporte.php"#>{ DETALLE REPORTE }</a>
+                                <a href="modelo/datos_tunel/read_datos_tunel.php"#>{ DATOS TUNELES }</a>
+                                <a href="modelo/tunel/read_tunel.php"#>{ TUNEL }</a>
+                                <a href="modelo/mina/read_mina.php"#>{ MINA }</a>
                                 <br>
                                 <h2>Keyla</h2>
-                                <a href="modelo/ciudad/leerCiudad.php"#><button>CIUDAD</button></a>
-                                <a href="modelo/pais/leerPais.php"#><button>PAIS</button></a>
-                                <a href="modelo/empresa/leerEmpresa.php"#><button>EMPRESA</button></a>
+                                <a href="modelo/ciudad/leerCiudad.php"#>{ CIUDAD }</a>
+                                <a href="modelo/pais/leerPais.php"#>{ PAIS }</a>
+                                <a href="modelo/empresa/leerEmpresa.php"#>{ EMPRESA }</a>
                                 <br>
                                 <h2>Yander</h2>
-                                <a href="modelo/persona/read_persona.php"#><button>PERSONA</button></a>
-                                <a href="modelo/mina/read_mina.php"#><button>MINA</button></a>
-                                <a href="modelo/licencia/read_licencia.php"#><button>LICENCIA</button></a>
-                                <a href="modelo/dron/read_dron.php"#><button>DRON</button></a>
+                                <a href="modelo/persona/read_persona.php"#>{ PERSONA }</a>
+                                <a href="modelo/licencia/read_licencia.php"#>{ LICENCIA }</a>
+                                <a href="modelo/dron/read_dron.php"#>{ DRON }</a>
 								<br><br>
                 </div>
 							</div>

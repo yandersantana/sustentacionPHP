@@ -3,7 +3,7 @@ include_once('database.php');
 
 // Define configuration
 define("DB_HOST", "ec2-54-221-244-196.compute-1.amazonaws.com");
-define("DB_USER", "dcs89anusbm3gg");
+define("DB_USER", "rgggacysiqcdqc");
 define("DB_PASS", "c7a75d40c962ef700a0910847014f4e0979ae24ad53f6927f0ff8a41d9f14447");
 define("DB_NAME", "dcs89anusbm3gg");
 
