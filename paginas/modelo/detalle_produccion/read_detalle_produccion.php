@@ -62,12 +62,7 @@ $detalle_produccioncollectorObj = new detalle_produccioncollector();
             <br>
         <br>  
                  <br>
-        <br>    <a href="../../administrar.php"><button>VOLVER</button></a>
-           
-        
-                 <br>
-        <br> 
-       
+        <br>  
           
     <h1>TABLA DETALLE PRODUCCIÓN</h1>
     <a href="create_detalle_produccion.php"><button class="crear">CREAR</button></a>

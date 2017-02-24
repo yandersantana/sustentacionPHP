@@ -64,12 +64,7 @@ $mineralcollectorObj = new mineralcollector();
                  <br>
         <br>  
           
-     <a href="../../administrar.php"><button>VOLVER</button></a>
-           
-        
-                 <br>
-        <br> 
-       
+    
     
     <h1>TABLA MINERAL</h1>
     <a href="create_mineral.php"><button class="crear">CREAR</button></a>

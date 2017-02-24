@@ -62,12 +62,7 @@ $empresaCollectorObj = new empresaCollector();
         <br>  
                  <br>
         <br>  
-     <a href="../../administrar.php"><button>VOLVER</button></a>
-           
-        
-                 <br>
-        <br> 
-       
+    
     <h1>TABLA EMPRESA</h1>
     <a href="create_empresa.php"><button class="crear">CREAR</button></a>
     <table>

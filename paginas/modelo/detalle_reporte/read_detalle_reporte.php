@@ -65,12 +65,7 @@ $detalle_reporteCollectorObj = new DetalleReporteCollector();
         <br>  
           
     
-      <a href="../../administrar.php"><button>VOLVER</button></a>
-           
-        
-                 <br>
-        <br> 
-       
+    
     <h1>TABLA DETALLE REPORTE</h1>
     <a href="create_detalleReporte.php"><button class="crear">CREAR</button></a>
     <table>

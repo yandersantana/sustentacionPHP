@@ -64,12 +64,7 @@ $DatosTunelCollectorObj = new DatosTunelCollector();
         <br>  
                  <br>
         <br>  
-            <a href="../../administrar.php"><button>VOLVER</button></a>
-           
-        
-                 <br>
-        <br> 
-       
+          
             <h1>TABLA DATOS TUNEL</h1>
            <br> 
             <a href="create_datosTunel.php"><button class="crear">CREAR</button></a>

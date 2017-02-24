@@ -2,7 +2,7 @@
 
 include_once('empresa.php');
 include_once("../collector.php");
-include_once("../dron/DronCollector.php");
+include_once("../dron/droncollector.php");
 
 class empresaCollector extends collector
 {

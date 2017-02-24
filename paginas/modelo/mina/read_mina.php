@@ -64,12 +64,7 @@ $MinaCollectorObj = new MinaCollector();
                  <br>
         <br>  
     
-     <a href="../../administrar.php"><button>VOLVER</button></a>
-           
-        
-                 <br>
-        <br> 
-       
+    
     <h1>TABLA MINA</h1>
     <a href="create_mina.php"><button class="crear">CREAR</button></a>
     <table>
